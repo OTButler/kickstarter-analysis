@@ -16,7 +16,7 @@ Row Labels	failed	live	successful	Grand Total
 plays	70	6	238	314
 Grand Total	70	6	238	314![image](https://user-images.githubusercontent.com/106288712/177064998-636c48f9-c41a-444f-9e70-73c550486f53.png)
 
-# Descriptive Statistics for Kickstarter Data
+# Descriptive Statistics for Kickstarter Data 
 	Successful	Failure
 Mean Goal	 $5,049 	 $10,554 
 Median Goal	 $3,000 	 $5,000 
@@ -32,3 +32,5 @@ Upper Quartile of Pledged	 $5,699 	 $501
 Lower Quartile of Pledged	 $1,717 	 $9 
 IQR of Pledged	 $3,982 	 $492 ![image](https://user-images.githubusercontent.com/106288712/177065134-870d5569-a066-4dc9-8faa-5ef6a43c67cd.png)
 
+#Analysis for the Musicals in GB indicated that the mean goal is $4000 with an outlier  in excess of $14K.
+#Analysis of Pledges - Mean is approximately $1K with the outlier of approximately $10K, indicating the pledges are much less than the overall goal.  
