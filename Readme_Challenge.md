@@ -18,8 +18,9 @@ There was a 12 month period for the show to air.  The Launch of the show in Janu
 
 ### Challenges and Difficulties Encountered
 
-There were no challenges or difficulties processing the data for this module.  
+There were no challenges or difficulties processing the data for this module.  The challenges encountered by the team was identifying and setting realistic goals for their funding activities
 
 The challenges encountered during this project was trying to follow along on the project and going back and forth between the screens.  There should be an option to allow students to download the content and documents notes and questions easier.  As a visual learner who also need to write out information, this single version of communication has crippled my ability to quickly get through the modules. 
 
 ## Results
+The most successful funding activities occurred when the goals were less than $15,000 and between $35K - 45K.  There should be some additional consideration in goal setting. 
