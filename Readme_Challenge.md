@@ -58,3 +58,11 @@ The challenges encountered during this project was trying to follow along on the
 
 ## Results
 The most successful funding activities occurred when the goals were less than $15,000 and between $35K - 45K.  There should be some additional consideration in goal setting. 
+
+The outcomes based on goals indicates the importance of understanding who is setting the goals and their ability to meet the goal set.  There were zero cancellatations indicating that everyone had good intentions, however the audiences supportin reaching the goal either did not understand the goal or was unable to meet that commitment.  
+
+The data set is limited based on the audiences surveyed to suppor the overall goal.  
+
+A bar graph could have been used to reflect this data. 
+
+
