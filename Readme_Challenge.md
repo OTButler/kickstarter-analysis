@@ -3,9 +3,9 @@
 ## Overview of Project
 
 ## Purpose
-Analysis of the Theater Funding Goals based on Launch dates for the show Fever
+Analysis of the Theater Funding Goals based on Launch dates for the show Fever to provide useful information to Louise when planning shows. 
 
-## Analysis And Challenges
+## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
 There was a 12 month period for the show to air.  The Launch of the show in January indicated that there was consistency in the number of successful and failed shows across that period of time. 
@@ -17,5 +17,9 @@ There was a 12 month period for the show to air.  The Launch of the show in Janu
 <img width="755" alt="image" src="https://user-images.githubusercontent.com/106288712/179368473-ae48c167-a007-45d8-b47d-bd82a7d8debf.png">
 
 ### Challenges and Difficulties Encountered
+
+There were no challenges or difficulties processing the data for this module.  
+
+The challenges encountered during this project was trying to follow along on the project and going back and forth between the screens.  There should be an option to allow students to download the content and documents notes and questions easier.  As a visual learner who also need to write out information, this single version of communication has crippled my ability to quickly get through the modules. 
 
 ## Results
